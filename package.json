@@ -1,0 +1,16 @@
+{
+  "name": "@levpewpew/cw-mock-shared",
+  "version": "0.1.0",
+  "description": "shared modules for cw-mock microfrontends app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevPewPew/cw-mock-shared.git"
+  },
+  "author": "Levente Toth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevPewPew/cw-mock-shared/issues"
+  },
+  "homepage": "https://github.com/LevPewPew/cw-mock-shared#readme"
+}
