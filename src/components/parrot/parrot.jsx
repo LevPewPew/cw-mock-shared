@@ -17,7 +17,9 @@ export default function Parrot() {
         Speech
         <input onChange={handleSpeechFieldChange} />
       </label>
-      <button onClick={handleTalkButtonClick}>Talk</button>
+      <button onClick={handleTalkButtonClick}>Talk!</button>
     </div>
   );
 }
+
+// NEXT try figure out index wizadry

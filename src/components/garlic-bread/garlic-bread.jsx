@@ -5,7 +5,7 @@ function GarlicBread(props) {
   const breadText = props.store.isCookingComplete ? "Ready to eat" : "It's raw";
 
   return (
-    <div style={{ border: "3px dashed green", backgroundColor: "yellow", color: "black" }}>
+    <div style={{ border: "3px dashed green", backgroundColor: "gold", color: "black" }}>
       <div>{breadText}</div>
     </div>
   );
