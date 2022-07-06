@@ -9,7 +9,7 @@ module.exports = {
     filename: "index.js",
     path: path.resolve(__dirname, "dist"),
     library: "",
-    libraryTarget: "commonjs-module",
+    libraryTarget: "commonjs",
   },
   plugins: [new CleanWebpackPlugin()],
   module: {

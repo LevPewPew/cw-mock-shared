@@ -1,8 +1,7 @@
 {
   "name": "@levpewpew/cw-mock-shared",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "shared modules for cw-mock microfrontends app",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LevPewPew/cw-mock-shared.git"
@@ -13,8 +12,9 @@
     "url": "https://github.com/LevPewPew/cw-mock-shared/issues"
   },
   "homepage": "https://github.com/LevPewPew/cw-mock-shared#readme",
+  "main": "dist/index.js",
   "files": [
-    "./dist"
+    "dist"
   ],
   "scripts": {
     "test": "cross-env BABEL_ENV=test jest",
