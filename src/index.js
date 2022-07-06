@@ -3,4 +3,4 @@ export { Parrot } from "./components/parrot";
 
 export { default as store } from "./stores";
 
-// NEXT in catwalk env, change names from silly things to ANZ-y things
+// TODO change names to domain relevent things
