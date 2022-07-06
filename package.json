@@ -1,6 +1,6 @@
 {
   "name": "@levpewpew/cw-mock-shared",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "shared modules for cw-mock microfrontends app",
   "repository": {
     "type": "git",

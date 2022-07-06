@@ -23,3 +23,5 @@ export default function Parrot() {
 }
 
 // NEXT try figure out index wizadry
+
+// NEXT see if i can do the store.....

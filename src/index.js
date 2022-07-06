@@ -1,30 +1,8 @@
+export { GarlicBread } from "./components/garlic-bread";
 export { Parrot } from "./components/parrot";
-// import ParrotOriginal from "./components/parrot/parrot";
 
-// export { ParrotOriginal as Parrot };
-
-// const { Paxxrrot } = "./components/Parrot/";
-
-// export { Parrot };
-
-// export { GarlicBread };
-
-//****** */
-// import GarlicBreadOriginal from "./components/garlic-bread";
-
-// export function printMsg() {
-//   console.log("This is a message from shared code!!!");
-// }
-
-// // module.exports = {
-// //   printMsg,
-// // };
-
-// // import ()
-
-// export const GarlicBread = GarlicBreadOriginal;
-
-// // export * from "./components";
-// // export * from "./stores";
+export { default as store } from "./stores";
 
 // NEXT remove the CI steps that do the copying
+
+// NEXT in catwalk env, change names from silly things to ANZ-y things
